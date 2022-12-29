@@ -7,17 +7,19 @@ Fun project for Christmas 2022, on display during December 2022 in the Marktgass
 
 ## Setting up Video
 
-[![Watch the video](https://img.youtube.com/vi/tnTKXoCwKco/maxresdefault.jpg)](https://youtu.be/tnTKXoCwKco)
+[![Watch the video](https://img.youtube.com/vi/_tesSt7-NaM/maxresdefault.jpg)](https://youtu.be/_tesSt7-NaM)
 
 ## Links and credits
 
 [https://www.aranacorp.com/en/communication-between-raspberry-pi-and-arduino-with-i2c/]
+
 [https://siytek.com/arduino-cli-raspberry-pi/]
+
 [https://github.com/nathankellenicki/node-poweredup]
 
-## TODO / IDEAS / IMPOVEMENTS for 2023
+## TODO / IDEAS / IMPROVEMENTS for 2023
 
-- add email for falures
+- add email for failures
 - poweredup reset decoupler and switch on exit
 - random set light and run train
 - move logik from quarkus to node handler (see xmas2020 for legacy quarkus code)
